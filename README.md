@@ -1,6 +1,7 @@
 # YourCard
 A simple card scanner app to store business cards and build your social network.
-- Flutter / Dart Private Project
+<br>
+Flutter / Dart Private Project
 co-worked with Roberto Font and Anjali Varghese
 
 
